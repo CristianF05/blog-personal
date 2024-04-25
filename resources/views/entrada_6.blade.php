@@ -128,7 +128,6 @@
                 <li><a href="http://localhost/cristian/public/ruta_3">Conocimientos</a></li>
                 <li><a href="http://localhost/cristian/public/ruta_4">Proyectos trabajo</a></li>
                 <li><a href="http://localhost/cristian/public/ruta_5">Proyectos Personales</a></li>
-                <li><a href="http://localhost/cristian/public/ruta_6">Certificados</a></li>
             </ul>
         </nav>
     </header>

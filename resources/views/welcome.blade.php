@@ -121,13 +121,13 @@
     <header>
         <h1>Mi Blog Personal</h1>
         <nav>
-            <ul>
+        <ul>
                 <li><a href="http://localhost/cristian/public/">Inicio</a></li>
                 <li><a href="http://localhost/cristian/public/ruta_1">Sobre mí</a></li>
-                <li><a href="http://localhost/cristian/public/ruta_2">Ocupación</a></li>
-                <li><a href="http://localhost/cristian/public/ruta_3">Experiencias Profesionales</a></li>
-                <li><a href="http://localhost/cristian/public/ruta_4">Proyectos Trabajados</a></li>
-                <li><a href="http://localhost/cristian/public/ruta_5">Blog</a></li>
+                <li><a href="http://localhost/cristian/public/ruta_2">Trabajos</a></li>
+                <li><a href="http://localhost/cristian/public/ruta_3">Conocimientos</a></li>
+                <li><a href="http://localhost/cristian/public/ruta_4">Proyectos trabajo</a></li>
+                <li><a href="http://localhost/cristian/public/ruta_5">Proyectos Personales</a></li>
             </ul>
         </nav>
     </header>

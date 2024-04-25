@@ -109,8 +109,8 @@
                 <li><a href="http://localhost/cristian/public/ruta_1">Sobre mí</a></li>
                 <li><a href="http://localhost/cristian/public/ruta_2">Trabajos</a></li>
                 <li><a href="http://localhost/cristian/public/ruta_3">Conocimientos</a></li>
-                <li><a href="http://localhost/cristian/public/ruta_4">Proyectos</a></li>
-                <li><a href="http://localhost/cristian/public/ruta_5">Blog</a></li>
+                <li><a href="http://localhost/cristian/public/ruta_4">Proyectos trabajo</a></li>
+                <li><a href="http://localhost/cristian/public/ruta_5">Proyectos Personales</a></li>
             </ul>
         </nav>
     </header>
